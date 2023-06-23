@@ -1,0 +1,16 @@
+@import './base.css';
+
+.card {
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background-color: #1877f2;
+  border-color: #1877f2;
+}
+
+.btn-secondary {
+  color: white!important;
+  background-color: transparent;
+}
